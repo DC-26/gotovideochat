@@ -19,7 +19,7 @@ Whether it’s chat, calls, or video, anyone can engage at any time, bringing ev
 - Full Screen Mode on mouse click on the Video element
 - Possibility to Change UI Themes
 
-## Demo
+# Demo
 
 - `Open` https://chatvideo-app.herokuapp.com/newcall 
 - `Pick` your personal Room name and `Join Team`
@@ -55,7 +55,7 @@ npm run start
 
 ---
 <br>
-Open the app in one of following **supported browser**
+Open the app in one of following supported browser
 
 [//]: #![webrtc](public/images/webrtc.png)
 ![Foo](public/images/browsers.png)
