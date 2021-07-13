@@ -1,0 +1,28 @@
+{
+  "name": "gotovideochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DC-26/gotovideochat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DC-26/gotovideochat/issues"
+  },
+  "homepage": "https://github.com/DC-26/gotovideochat#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ngrok": "^4.0.1",
+    "socket.io": "^4.1.3"
+  }
+}
