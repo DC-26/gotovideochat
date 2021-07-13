@@ -53,7 +53,18 @@ npm run start
 
 - Open http://localhost:3000 in browser
 
----
+
+
+## Techologies Used
+- JavaScript
+- HTML And CSS
+
+### Dependencies
+- Dotenv
+- Compression
+- express
+- socket.io
+- ngrok
 <br>
 Open the app in one of following supported browser
 
