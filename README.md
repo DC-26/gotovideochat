@@ -22,7 +22,7 @@ Whether it’s chat, calls, or video, anyone can engage at any time, bringing ev
 ## Demo
 
 - `Open` https://chatvideo-app.herokuapp.com/newcall 
-- `Pick` your personal Room name and `Join To Room`
+- `Pick` your personal Room name and `Join Team`
 - `Allow` to use the camera and microphone
 - `Share` the Room URL and `Wait` someone to join for video conference
 
