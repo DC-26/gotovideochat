@@ -17,7 +17,6 @@ Whether it’s chat, calls, or video, anyone can engage at any time, bringing ev
 - Chat with Emoji Picker & Private messages & Save the conversations
 - Simple collaborative whiteboard for the teachers
 - Full Screen Mode on mouse click on the Video element
-- Possibility to Change UI Themes
 
 # Demo
 
